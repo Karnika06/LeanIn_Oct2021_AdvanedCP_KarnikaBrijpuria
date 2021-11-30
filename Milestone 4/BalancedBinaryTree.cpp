@@ -1,3 +1,5 @@
+//1.Given a binary tree, check if it is balanced. Return true if given binary tree is balanced, false otherwise.
+
 #include<iostream>
 #include<bits/stdc++.h>
 
